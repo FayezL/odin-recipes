@@ -1,3 +1,3 @@
-# odin-recipes
-Recipe Page ⭐️
-Create a recipe page to showcase basic HTML & CSS.
+# Recipe Page ⭐️
+
+ Create a recipe page to showcase basic HTML & CSS- one of first odin project.
